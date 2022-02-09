@@ -1,0 +1,3 @@
+kilometers = float(input("Please Enter the Kilometers = "))
+centimeter = kilometers * 10000
+print("%.2f Kilometers = %.2f Centimeters" %(kilometers, centimeter))
